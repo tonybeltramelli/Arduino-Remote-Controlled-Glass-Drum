@@ -4,6 +4,8 @@
 Remote-controlled Servo motor and LED through Web Server
 using AJAX asynchronous request
 
+Video : <http://youtu.be/aQHxTYnHMNU>
+
 Circuit:
  * Arduino Uno board
  * Ethernet shield attached to pins 10, 11, 12, 13
